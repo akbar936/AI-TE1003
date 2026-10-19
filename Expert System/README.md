@@ -150,6 +150,6 @@ This allows the system to perform **multi-step reasoning**, similar to human exp
 
 ---
 
-# 📚 Author
+# 📚 Source
 Mr. Aniket Tayade.
 tayadeanni@gmail.com
